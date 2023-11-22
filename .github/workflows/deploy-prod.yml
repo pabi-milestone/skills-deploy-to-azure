@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: milestone-pabi-azure-ttt
-  AZURE_WEBAPP_NAME: milestone-pabi-ttt-app
+  DOCKER_IMAGE_NAME: pabi-milestone-azure-ttt
+  AZURE_WEBAPP_NAME: pabi-milestone-ttt-app
   ###############################################
 
 jobs:
